@@ -42,7 +42,7 @@
 //----------------------------------------------------------------------------
 
 #include "ImathShear.h"
-
+#include <algorithm>
 namespace Imath {
 
 
